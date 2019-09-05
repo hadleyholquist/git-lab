@@ -44,5 +44,6 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 10. No, the online and the local copy are different.
-11. The updates were rejected.
-
+11. The updates were rejected
+12. Yes the online was reflected in the local copy
+13. .  ..  .git  .gitignore  README.md
